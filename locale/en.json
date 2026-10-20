@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Plugin Backup",
+    "description": "Snapshots the installed plugin manifest to a JSON file outside the profile and restores every plugin in one click after a Harness update drops or disables them."
+  }
+}

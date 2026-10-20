@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Test artifacts
+*.tmp
+.tmp/
+coverage/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store

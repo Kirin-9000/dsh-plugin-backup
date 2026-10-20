@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "插件备份与恢复",
+    "description": "把已安装插件清单快照到 profile 之外的 JSON 文件；Harness 更新导致插件被清除或失效后，一键勾选恢复全部历史插件。"
+  }
+}
